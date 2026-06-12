@@ -1,0 +1,12 @@
+{
+  "agents": {
+    "defaults": {
+      "notifications": {
+        "telegram": {
+          "token": "8895123137:AAFiBFptKiObXhJlgvqP3fHwa5DULk4ZTdY",
+          "chat_id": "1093857492"
+        }
+      }
+    }
+  }
+}
