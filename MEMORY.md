@@ -85,4 +85,14 @@
 
 ---
 
-_更新於 2026-06-02_
+### 2026-06-12 GitHub 整合完成
+- Repo：`Userton/openclaw-workspace` 已建立並 push
+- GitHub PAT：`ghp_7m…OD05`（Classic token，repo 權限）
+- Workspace 代碼已同步到 GitHub
+
+### 2026-06-12 開機自動啟動設定
+- 已建立 Windows Startup 捷徑
+- 捷徑位置：`$([Environment]::GetFolderPath('Startup'))\OpenClaw.lnk`
+- 開機後 OpenClaw 將自動啟動
+
+_更新於 2026-06-12_
