@@ -95,4 +95,10 @@
 - 捷徑位置：`$([Environment]::GetFolderPath('Startup'))\OpenClaw.lnk`
 - 開機後 OpenClaw 將自動啟動
 
-_更新於 2026-06-12_
+### 2026-06-13 Telegram Bot 設定完成
+- 機器人：@OpenClawerp_bot
+- Token：`8895123137:AAFiBFptKiObXhJlgvqP3fHwa5DULk4ZTdY`
+- Chat ID：`1093857492`
+- 可發送狀態通知到 Telegram
+
+_更新於 2026-06-13_
